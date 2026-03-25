@@ -44,4 +44,4 @@ All details are documented in the attached PDF.
 
 ## 📎 Included File
 
-- **Threat Model_ Login System.pdf** — Full threat model document
+- [LoginSystemThreatModel.pdf](LoginSystemThreatModel.pdf) — Full threat model document
